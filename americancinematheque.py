@@ -11,7 +11,7 @@ load_dotenv('config.env')
 # Discord bot token
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 DISCORD_USER_ID = os.getenv('DISCORD_USER_ID')
-# Gmail credentials
+# Gmail credentials     
 GMAIL_USER = os.getenv('GMAIL_USER')
 GMAIL_APP_PASSWORD = os.getenv('GMAIL_APP_PASSWORD')
 
